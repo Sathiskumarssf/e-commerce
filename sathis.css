@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.centainer{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.76j0R8uoEKFeowOuZ2f_DAHaE8&pid=Api&rs=1&c=1&qlt=95&w=156&h=104");
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.headre{
+    margin-left: 40%;
+    font-size: 50px;
+}
+
+.about{
+    width: 700px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 10%;
+}
+
+.about1{
+    color: yellow;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.photo{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.Rbp81NbgnbTubzPRPAMqwwHaE8&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   width: 25%; 
+   height: 50%;
+   margin-top: 5%;
+   margin-left: 40%;
+   border-radius: 4%;
+   
+}
+
+.centainer1{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.Fq-vaj6YyQi0vkM6lL2_6gHaEK&pid=Api&P=0&h=180");
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    
+}
+
+.foodlist{
+    margin-left: 40%;
+    font-size: 310%;
+    color: wheat;
+    margin-top: 0px;
+}
+
+.image{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    text-align: center;
+    justify-content: center;
+}
+
+ .image img{
+    width: 15%;
+    height: 15%;
+ }
+
+.image1{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    text-align: center;
+   margin-top: -10px;
+}
+
+
+
+.NAME1{
+    margin-top: 360PX;
+    margin-left: 10PX;
+}
+
+.box{
+    background-color: red;
+    box-sizing: 30px;
+}
+
+.image1 img{
+    width: 15%;
+    height: 10%;
+    margin-top: 0px;
+}
+
+.container2{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.pFaQ2H7lmv-iTv7gsyt2dQHaE8&pid=Api&P=0&h=180 ");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+
+.container2 ul li{
+    display: inline-block;
+    list-style: none;
+    position: absolute;
+}
+
+.list1{
+    margin-left: 40%;
+    margin-top: -90px;
+}
+
+.list1 a{
+    font-size: 30px;
+    font-style: normal;
+    padding: 10px 20px;
+    color: black;
+    background-color: rgb(194, 175, 211);
+    margin: 20px 20px;
+    border-radius: 20px;
+
+
+}
+
+
+.list1 a:hover{
+    background-color: dodgerblue;
+}
+
+.imag1{
+    background: transparent;
+   border: 6px solid;
+   border-radius: 20px;
+   border-color: rgb(235, 225, 225);
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    text-align: center;
+    box-shadow: 0px 0px 50px red;
+    align-items: center;
+    
+    
+}
+
+.btn{
+    background-color: rgb(235, 230, 239);
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.btn:hover{
+    background-color: yellow;
+}
+
+.par{
+    position: absolute;
+    width: 40%;
+    height: auto;
+    top: 54%;
+    left: 40%;
+}
